@@ -7,13 +7,25 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
+
   more_info: >
     <p><b>Purdue University</b></p>
+    <p>Elmore Family School of Electrical and Computer Engineering</p>
     <p>West Lafayette, IN 47907</p>
     <br>
-    <p><b>Email:</b></p>
-    <p>yourname@purdue.edu</p>
+    <p><b>Email</b></p>
+    <p>yan568@purdue.edu</p>
+    <br>
+    <p>
+    <a href="https://scholar.google.com/citations?user=7jkkP3kAAAAJ&hl=zh-CN" target="_blank">
+    Google Scholar
+    </a>
+    &nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/yuming-yan-389790207/" target="_blank">
+    LinkedIn
+    </a>
+    </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
