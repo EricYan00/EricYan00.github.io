@@ -35,8 +35,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I’m a postdoctoral research fellow at Purdue University, working with [Prof. Woongkul Matt Lee](https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=302765). Before joining Purdue, I worked as a Postdoctoral Research Fellow with the Department of Mechanical and Aerospace Engineering, North Carolina State University, advised by [Prof. Hao Su](https://engineering.nyu.edu/faculty/hao-su). I received my Ph.D. from Nanyang Technological University (NTU) in 2024, where I was advised by [Prof. Christopher H. T. Lee](https://www.ntu.edu.sg/erian/about-us/our-people/cluster-directors/christopher-lee).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests lie in the intersection of foundation electric machine drive and wearable robotics at the system level. My long-term vision is to develop human-centered electro-mechanical systems that seamlessly integrate with people and society, enabling more sustainable transportation and healthier, more independent living. My research is built upon two synergistic pillars: sustainable electric machine drive technologies for vehicle electrification and intelligent wearable robotic systems for human augmentation and rehabilitation.
