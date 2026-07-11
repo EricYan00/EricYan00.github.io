@@ -17,10 +17,10 @@ more_info: >
   <p>yan568@purdue.edu</p>
   <br>
   <p style="font-size:0.85em;">
-  <a href="https://scholar.google.com/citations?user=7jkkP3kAAAAJ&hl=en" target="_blank">Google Scholar</a> |
+  <a href="https://scholar.google.com/citations?user=7jkkP3kAAAAJ&hl=en" target="_blank">Google Scholar</a>&nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/yuming-yan-389790207/" target="_blank">LinkedIn</a>
   </p>
-     
+  
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
