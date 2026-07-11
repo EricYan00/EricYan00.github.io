@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented at 2025 ITEC+EATS
+Presented supreme-efficiency LS-PMaSynRM at 2026 ITEC+EATS Novi, MI, USA. 
