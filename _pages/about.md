@@ -16,19 +16,9 @@ profile:
     <br>
     <p><b>Email</b></p>
     <p>yan568@purdue.edu</p>
-    <br>
-    <p>
-    <a href="https://scholar.google.com/citations?user=7jkkP3kAAAAJ&hl=zh-CN" target="_blank">
-    Google Scholar
-    </a>
-    &nbsp;|&nbsp;
-    <a href="https://www.linkedin.com/in/yuming-yan-389790207/" target="_blank">
-    LinkedIn
-    </a>
-    </p>
-
+  
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
