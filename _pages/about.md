@@ -10,7 +10,6 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><b>Purdue University</b></p>
-    <p>Elmore Family School of Electrical and Computer Engineering</p>
     <p>West Lafayette, IN 47907</p>
     <br>
     <p><b>Email:</b></p>
