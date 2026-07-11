@@ -11,11 +11,24 @@ profile:
 
   more_info: >
     <p><b>Purdue University</b></p>
-    <p>Elmore Family School of Electrical and Computer Engineering</p>
     <p>West Lafayette, IN 47907</p>
     <br>
     <p><b>Email</b></p>
     <p>yan568@purdue.edu</p>
+    <br>
+    <p>
+    <a href="https://scholar.google.com/citations?user=7jkkP3kAAAAJ&hl=en" target="_blank">
+    Google Scholar
+    </a>
+    &nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/yuming-yan-389790207/" target="_blank">
+    LinkedIn
+    </a>
+    &nbsp;|&nbsp;
+    <a href="https://orcid.org/0000-0002-4931-5439" target="_blank">
+    ORCID
+    </a>
+    </p>
   
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
