@@ -24,8 +24,6 @@ more_info: >
     <a href="https://scholar.google.com/citations?user=7jkkP3kAAAAJ&hl=en" target="_blank">Google Scholar</a>
     &nbsp;|&nbsp;
     <a href="https://www.linkedin.com/in/yuming-yan-389790207/" target="_blank">LinkedIn</a>
-    &nbsp;|&nbsp;
-    <a href="https://orcid.org/0000-0002-4931-5439" target="_blank">ORCID</a>
   </p>
   
 selected_papers: true # includes a list of papers marked as "selected={true}"
