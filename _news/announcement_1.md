@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper accepted at 2025 IEEE/AIAA Transportation Electrification Conference and Electric Aircraft Technologies Symposium (ITEC+EATS)
+Paper accepted at 2026 IEEE/AIAA Transportation Electrification Conference and Electric Aircraft Technologies Symposium (ITEC+EATS)
