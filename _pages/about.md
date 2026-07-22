@@ -6,7 +6,7 @@ subtitle: Postdoctoral Research Fellow, Purdue University
 
 profile:
   align: right
-  image: prof_pic2.png
+  image: prof_pic_life.jpg
   image_circular: false
   more_info: >
    <p><b>Purdue University</b></p>
