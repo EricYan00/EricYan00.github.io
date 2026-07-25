@@ -28,7 +28,7 @@ cv:
         url: https://www.ntu.edu.sg/
         #area: Electrical and Electronic Engineering
         studyType: PhD in Electrical and Electronic Engineering
-        start_date: 
+        start_date: 2019
         end_date: 2024
        # score: ""
        # courses: "Theory of Relativity"
@@ -36,13 +36,13 @@ cv:
        #   - Description 1.
        #   - Description 2.
 
-      - institution: Xi'an Jiaotong University 
-        location: China
-        url: https://en.xjtu.edu.cn/
-        #area: Electrical Engineering
-        studyType: B.Sc. in Electrical Engineering
-        start_date: 
-        end_date: 2017
+     # - institution: Xi'an Jiaotong University 
+      #  location: China
+      #  url: https://en.xjtu.edu.cn/
+      #  #area: Electrical Engineering
+      #  studyType: B.Sc. in Electrical Engineering
+      #  start_date: 
+      #  end_date: 2017
         #highlights:
          # - Description 1.
           #- Description 2.
