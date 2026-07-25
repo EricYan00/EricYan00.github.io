@@ -23,11 +23,11 @@ cv:
 
   sections:
     Education:
-      - institution: Nanyang Technological University, 12th in the QS World University Rankings 2026
+      - institution: Nanyang Technological University, 12th globally in the QS World University Rankings 2026
         location: Singapore
         url: https://www.ntu.edu.sg/
         #area: Electrical and Electronic Engineering
-        studyType: PhD in Electrical and Electronic Engineering
+        studyType: Ph.D. in Electrical and Electronic Engineering
         start_date: 2019
         end_date: 2024
        # score: ""
