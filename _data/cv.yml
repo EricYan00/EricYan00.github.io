@@ -23,28 +23,29 @@ cv:
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: Nanyang Technological University
+        location: Singapore
+        url: https://www.ntu.edu.sg/
+        area: Electrical and Electronic Engineering
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
+        start_date: 2019
+        end_date: 2024
+       # score: ""
+       # courses: "Theory of Relativity"
+       # highlights:
+       #   - Description 1.
+       #   - Description 2.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: Xi'an Jiaotong University 
+        location: Xi'an, China
+        url: https://en.xjtu.edu.cn/
+        area: Electrical Engineering
+        studyType: B.Sc. 
+        start_date: 2013
+        end_date: 2017
+        #highlights:
+         # - Description 1.
+          #- Description 2.
 
     Experience:
       - company: Institute for Advanced Study, Princeton University
