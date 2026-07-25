@@ -28,7 +28,7 @@ cv:
         url: https://www.ntu.edu.sg/
         area: Electrical and Electronic Engineering
         studyType: PhD
-        start_date: 2019
+      #  start_date: 2019
         end_date: 2024
        # score: ""
        # courses: "Theory of Relativity"
@@ -41,7 +41,7 @@ cv:
         url: https://en.xjtu.edu.cn/
         area: Electrical Engineering
         studyType: B.Sc. 
-        start_date: 2013
+       # start_date: 2013
         end_date: 2017
         #highlights:
          # - Description 1.
