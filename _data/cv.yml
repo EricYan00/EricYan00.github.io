@@ -67,17 +67,17 @@ cv:
          # - Description 1.
          # - Description 2.
 
-      - company: School of Electrical and Electronic Engineering
-        position: Research Assistant and Teaching Assistant | Nanyang Technological University
+      - company: The Rolls-Royce at NTU Corporate Laboratory | School of Electrical and Electronic Engineering
+        position: Research Assistant | Nanyang Technological University
         location: Singapore
         start_date: 2019
         end_date: 2024
 
- #     - company: Karl-Ferdinand University
-  #      position: Professor of Theoretical Physics
-   #     location: Prague, Czechoslovakia
-    #    start_date: 1911
-     #   end_date: 1917
+      - company: School of Electrical and Electronic Engineering
+        position: Teaching Assistant | Nanyang Technological University
+        location: Singapore
+        start_date: 2020
+        end_date: 2024
 
 #      - company: University of Zurich
  #       position: Associate Professor of Theoretical Physics
