@@ -42,7 +42,8 @@ cv:
         area: Electrical Engineering
         studyType: B.Sc. 
        # start_date: 2013
-        end_date: 2017
+        date: 2017
+       # end_date: 2017
         #highlights:
          # - Description 1.
           #- Description 2.
