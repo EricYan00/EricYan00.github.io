@@ -2,13 +2,13 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: 
 nav: true
 nav_order: 6
 calendar: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+I am passionate about teaching and mentoring. This page lists the courses that I have taught / co-taught / assisted in teaching. I have also mentored 9 graduate and undergraduate students at Nanyang Techonological University, NC State University and Purdue University for their reserach and thesis. Mentored student team at NC State University awarded the First-Place Best Poster Award at the 2024 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM 2024), Boston, USA. 
 
 {% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
 
