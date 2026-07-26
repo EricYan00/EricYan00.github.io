@@ -12,9 +12,9 @@ course_id: EE4504 - Design of Clean Energy Systems
 ## Responsibilities
 
 - Mentoring students in an active learning class
-- Teaching class sessions on PCIM analysis
+- Teaching class sessions on PCIM and PLECS power converter analysis
 - Preparing in-class exercises, exams, and homeworks
-- Mentoring students in practical laboratory experiment sessions
+- Mentoring students in hands-on laboratory experiment sessions
 - Grading
 
 
