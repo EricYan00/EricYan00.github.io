@@ -1,13 +1,11 @@
 ---
 layout: course
 title:  EE4504 - Design of Clean Energy Systems 
-description: An undergraduate .
-instructor: Prof. Data
-year: 2024
+description: An undergraduate course (Senior-year undergraduate students).
+instructor: Prof. Yi Tang and Prof. Ali I. Maswood
+year: 2022
 term: Spring
-location: Science Building, Room 202
-time: Mondays and Wednesdays, 2:00-3:30 PM
-course_id: data-science-fundamentals
+course_id: EE4504 - Design of Clean Energy Systems 
 
 ---
 
@@ -20,19 +18,4 @@ This course provides a comprehensive introduction to data science principles and
 - Develop skills in data visualization and communication
 - Apply statistical methods to derive insights from data
 
-## Prerequisites
 
-- Basic programming knowledge (preferably in Python)
-- Introductory statistics
-- Comfort with basic algebra
-
-## Textbooks
-
-- "Python for Data Analysis" by Wes McKinney
-- "Data Science from Scratch" by Joel Grus
-
-## Grading
-
-- Assignments: 50%
-- Project: 40%
-- Participation: 10%
