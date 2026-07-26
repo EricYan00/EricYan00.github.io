@@ -2,7 +2,7 @@
 layout: course
 title:  EE4504 - Design of Clean Energy Systems 
 description: An undergraduate course (Senior-year undergraduate students). A comprehensive curriculum in power electronics, providing a seamless progression from fundamental theoretical principles and simulation-driven design to hands-on experimental validation.
-instructor: Prof. Yi Tang 
+instructor: I worked as teaching assistant with Prof. Yi Tang 
 year: 2022
 course_id: EE4504 - Design of Clean Energy Systems 
 
