@@ -10,4 +10,4 @@ course_id:  MAE 435 Principles of Automatic Control
 ## My Responsibilities
 
 - Mentoring undergraduate students in lab to do hands-on research in wearable exoskeletons
-- Bring lab-developed hip exoskeletons into the classroom; provide guidance and traning for students' hands-on experience in wearable hip exoskeletons
+- Bring lab-developed hip exoskeletons into the classroom; provide guidance and training for students' hands-on experience in wearable hip exoskeletons
