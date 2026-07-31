@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Research Fellow, Purdue University
+subtitle: Postdoctoral Fellow, Purdue University
 
 profile:
   align: right
