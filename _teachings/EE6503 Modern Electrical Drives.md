@@ -1,6 +1,6 @@
 ---
 layout: course
-title:  EE6503 - Modern Electrical Drives
+title:  EE6503 - Modern Electrical Drives - NTU
 description: An advanced graduate level course that teaches the theory and electromagnetic design of rotating machines from first principles.
 year: 2023
 instructor: Worked as teaching assistant with Prof. Christopher H. T. Lee
