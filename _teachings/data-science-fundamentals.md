@@ -1,6 +1,6 @@
 ---
 layout: course
-title:  EE4504 - Design of Clean Energy Systems 
+title:  EE4504 - Design of Clean Energy Systems -NTU
 description: An undergraduate course (Senior-year undergraduate students). A comprehensive curriculum in power electronics, providing a seamless progression from fundamental theoretical principles and simulation-driven design to hands-on experimental validation.
 instructor: Worked as teaching assistant with Prof. Yi Tang and Prof. Ali Maswood
 year: 2022
