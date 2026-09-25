@@ -1,6 +1,6 @@
 ---
 layout: course
-title:  EE4207 - Control System Design
+title:  EE4207 - Control System Design - NTU
 description: This course introduce embedded controller such as the Analog-to-Digital Converter (ADC), Timing module and Pulse Width Modulation (PWM) module for real time closed-loop control applications. Students will have a first-hand experience in designing and implementing a microcontroller-based closed-loop control system.
 instructor: Worked as teaching assistant with Prof. Ling Keck Voon
 year: 2023
