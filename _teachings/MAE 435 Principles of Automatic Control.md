@@ -1,6 +1,6 @@
 ---
 layout: course
-title:   MAE 435 Principles of Automatic Control
+title:   MAE 435 Principles of Automatic Control - North Carolina State University
 description: An undergraduate  course that teaches the Automatic Control for robotics.
 year: 2024
 instructor: Worked as teaching assistant with Prof. Hao Su at NC State
