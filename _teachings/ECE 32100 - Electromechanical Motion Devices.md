@@ -1,7 +1,7 @@
 ---
 layout: course
-title:   ECE 32100 - Electromechanical Motion Devices
-description: An undergraduate  course that teaches the fundamentals of electric machine and power magnetics.
+title:   ECE 32100 - Electromechanical Motion Devices - Purdue University
+description: Undergraduate  course that teaches the fundamentals of electric machine and power magnetics.
 year: 2026
 instructor: Invited lecturer
 course_id:  ECE 32100 - Electromechanical Motion Devices
