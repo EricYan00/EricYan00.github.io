@@ -36,13 +36,13 @@ cv:
        #   - Description 1.
        #   - Description 2.
 
-     # - institution: Xi'an Jiaotong University 
-      #  location: China
-      #  url: https://en.xjtu.edu.cn/
-      #  #area: Electrical Engineering
-      #  studyType: B.Sc. in Electrical Engineering
-      #  start_date: 
-      #  end_date: 2017
+      - institution: Xi'an Jiaotong University 
+        location: China
+        url: https://en.xjtu.edu.cn/
+        #area: Electrical Engineering
+        studyType: B.Eng. in Electrical Engineering
+        start_date: 2013
+        end_date: 2017
         #highlights:
          # - Description 1.
           #- Description 2.
