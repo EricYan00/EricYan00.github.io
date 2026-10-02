@@ -6,7 +6,7 @@ nav: true
 nav_order: 5
 cv_pdf: /assets/pdf/Yuming_Yan_CV.pdf
 cv_format: rendercv # options: rendercv, jsonresume
-description: This is a brief CV highlighting my education and work experience. For a complete CV, please contact me via email.
+description: 
 toc:
   sidebar: left
 ---
