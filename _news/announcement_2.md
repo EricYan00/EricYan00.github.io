@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper accepted at 2026 IEEE Energy Conversion Conference Congress and Exposition (ECCE)
+Paper accepted by IEEE Energy Conversion Conference Congress and Exposition (ECCE) 2026
