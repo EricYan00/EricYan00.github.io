@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Selected conference oral presentation on supreme high efficiency LS-PMaSynRM at 2026 ITEC+EATS Novi, MI, USA. 
+Selected conference oral presentation on supreme high efficiency LS-PMaSynRM at ITEC+EATS 2026, Novi, MI, USA. 
