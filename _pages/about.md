@@ -37,6 +37,9 @@ latest_posts:
 
 I’m a 3rd-year postdoctoral fellow at Purdue University, working with [Prof. Woongkul Matt Lee](https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=302765). Before joining Purdue, I worked as a Postdoctoral Research Fellow with the Department of Mechanical and Aerospace Engineering, North Carolina State University, advised by [Prof. Hao Su](https://engineering.nyu.edu/faculty/hao-su). I received my Ph.D. from Nanyang Technological University (NTU) in 2024, where I was advised by [Prof. Christopher H. T. Lee](https://www.ntu.edu.sg/erian/about-us/our-people/cluster-directors/christopher-lee).
 
-My research interests lie in the intersection of foundation electric machine drive and wearable robotics at the system level. My long-term vision is to develop human-centered electro-mechanical systems that seamlessly integrate with people and society, enabling more sustainable transportation and healthier, more independent living. My research is built upon two synergistic pillars: sustainable electric machine drive technologies for vehicle electrification and intelligent wearable robotic systems for human augmentation and rehabilitation.
+My research advances electromechanical energy conversion and integrated mechatronics through the application-driven co-design of electric
+machines, actuators, mechanisms, and control. I design the electromagnetic source of motion together with the physical system it drives,
+enabling sustainable electric machines, high-performance actuation, and human-centered robotics for datacenter cooling, electrified
+transportation, and human mobility.
 
 I am a passionate tennis player whose personal best is NTRP 4.0. I keep pushing my limits, improving from NTRP 2.5 in 2022 to NTRP 3.5 in 2024, and reaching NTRP 4.0 in 2025. I also enjoy a wide range of outdoor activities, including pickleball, basketball, soccer, and running.
