@@ -42,4 +42,4 @@ machines, actuators, mechanisms, and control. I design the electromagnetic sourc
 enabling sustainable electric machines, high-performance actuation, and human-centered robotics for datacenter cooling, electrified
 transportation, and human mobility.
 
-I am a passionate tennis player whose personal best is NTRP 4.0. I keep pushing my limits, improving from NTRP 2.5 in 2022 to NTRP 3.5 in 2024, and reaching NTRP 4.0 in 2025. I also enjoy a wide range of outdoor activities, including pickleball, basketball, soccer, and running.
+I am a passionate tennis player whose personal best is NTRP 4.0. I keep pushing my limits, improving from NTRP 2.5 in 2022 to 3.5 in 2024, and reaching NTRP 4.0 in 2025. I also enjoy a wide range of outdoor activities, including pickleball, basketball, soccer, and running.
